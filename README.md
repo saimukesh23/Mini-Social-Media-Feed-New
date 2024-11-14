@@ -13,6 +13,7 @@ Prerequisites-
 Make sure you have Java installed on your machine. You can download it from here.
 
 Instructions to Run the Project-
+
 Clone the repository to your local machine:
 
 Open your terminal or command prompt and run the following command:
@@ -31,9 +32,13 @@ After the compilation is successful, you can run the program using:
 java Main
 
 Example Interaction:
+
 Register a new user.
+
 Login with the created username and password.
+
 Post a message, like a post, or comment on a post as per the menu options.
+
 Notes:
 The program will prompt you to create an account and log in using that account.
 You can post updates, like and comment on posts, but this will only work if you're logged in.
