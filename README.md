@@ -1,4 +1,5 @@
-Mini Social Media Feed
+Mini Social Media Feed:
+
 Description-
 This is a simple console-based Java project simulating a social media feed. Users can register, log in, post updates, like posts, and comment on posts. The program demonstrates the basics of Object-Oriented Programming (OOP), file handling, and user interaction.
 
